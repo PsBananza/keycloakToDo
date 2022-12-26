@@ -1,0 +1,12 @@
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/controller/Controller.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/service/Service.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/dto/GetNewsDto.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/exception/LengthLimit.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/repository/Repo.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/DemoApplication.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/dto/CreateToDoDto.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/entity/ToDoEntity.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/dto/ChangeStatusTodoDto.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/dto/BaseSuccessResponse.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/dto/CustomSuccessResponse.java
+/Users/Spitsin/IdeaProjects/demo/src/main/java/com/example/demo/custom/CustomSuccessResponse.java

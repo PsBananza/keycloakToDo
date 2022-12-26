@@ -1,0 +1,12 @@
+com/example/demo/dto/CreateToDoDto.class
+com/example/demo/service/Service.class
+com/example/demo/custom/CustomSuccessResponse.class
+com/example/demo/repository/Repo.class
+com/example/demo/exception/LengthLimit.class
+com/example/demo/dto/ChangeStatusTodoDto.class
+com/example/demo/controller/Controller.class
+com/example/demo/DemoApplication.class
+com/example/demo/dto/BaseSuccessResponse.class
+com/example/demo/entity/ToDoEntity.class
+com/example/demo/dto/CustomSuccessResponse.class
+com/example/demo/dto/GetNewsDto.class
